@@ -5,12 +5,12 @@
 }
 
 body{
-    background-color:rgb(194, 208, 235);
+    background-color:rgb(100, 149, 237);
 }
 
 .header{
     margin-top: 10px;
-    color: rgb(18, 90, 223);
+    color: rgb(40,62,104);
     text-transform: uppercase;
     font-family: Arial, Helvetica, sans-serif;
 }
